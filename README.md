@@ -2,7 +2,7 @@
 
 ## 🚀 Architecture Breakdown of LlamaQuery: Natural Language to SQL Conversion
 
-This section provides a detailed explanation of the architecture shown in the image. The architecture follows a structured pipeline where user queries in natural language are processed, converted into SQL, executed against a database, and the results are returned.
+This section provides a detailed explanation of the architecture shown in the image. The architecture follows a structured pipeline where user queries in natural language are processed, converted into SQL, executed against a database, and the results are returned. 
 
 ---
 
